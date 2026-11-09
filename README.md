@@ -10,7 +10,7 @@ Final Year Project (solo), Bachelor of Computer Engineering, Universiti Malaysia
 > **Safety warning:** this project measures **240 V AC mains voltage**. It is shared to show the design, not as a build guide. Do not build or connect it unless you are qualified to work with mains electricity.
 
 [Demo video](https://youtu.be/hBfx_ivtnr0)
-![Prototype](docs/images/prototype.png)
+![Prototype](docs/images/prototype_running.png)
 
 ## Problem
 
