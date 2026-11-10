@@ -48,7 +48,7 @@ int displayPage = 0; // 0 = Live Data, 1 = System Info
 // --- TIMERS & BACKGROUND TASKS ---
 unsigned long lastMsgTime = 0;
 unsigned long lastWiFiReconnectAttempt = 0; 
-const long interval = 2000; 
+const long interval = 1000;
 Ticker ledTicker; 
 
 // --- BUTTON LOGIC VARIABLES ---
